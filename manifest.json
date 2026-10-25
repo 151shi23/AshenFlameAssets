@@ -13,6 +13,19 @@
       "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1/opencut.zip",
       "installDir": "opencut",
       "required": false
+    },
+    {
+      "id": "rhinelab",
+      "name": "莱茵生命终端素材",
+      "desc": "RhineLab 离线站点的模型与语音",
+      "version": "1.0",
+      "size": 33085582,
+      "sha256": "b259c172d3a1d74ca96287a3086a976e8710bf691b257abb29bf0bc2c6a57474",
+      "fileCount": 829,
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.0/rhinelab-1.0.zip",
+      "installDir": "rhinelab",
+      "required": false,
+      "updated": "2026-10-25"
     }
   ]
 }
