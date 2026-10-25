@@ -26,6 +26,19 @@
       "installDir": "rhinelab",
       "required": false,
       "updated": "2026-10-25"
+    },
+    {
+      "id": "minigame",
+      "name": "寂零快跑素材",
+      "desc": "小游戏《寂零快跑》的离线素材",
+      "version": "1.0",
+      "size": 41812839,
+      "sha256": "5abb9fe78c97d484a5afc3a7472dfd2625d6adeb7e05fc5aa1817bdaf102ea51",
+      "fileCount": 57,
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.0/minigame-1.0.zip",
+      "installDir": "minigame",
+      "required": false,
+      "updated": "2026-10-25"
     }
   ]
 }
