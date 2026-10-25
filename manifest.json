@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "updated": "2026-10-25",
+  "packs": [
+    {
+      "id": "opencut",
+      "name": "视频剪辑素材",
+      "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
+      "version": "1.0",
+      "size": 113090709,
+      "sha256": "199f14e9d2397c856a142e628ce85950cddb10320a50efa47cc96a16e4767030",
+      "fileCount": 28606,
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1/opencut.zip",
+      "installDir": "opencut",
+      "required": false
+    }
+  ]
+}
