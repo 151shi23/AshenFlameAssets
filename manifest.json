@@ -1,19 +1,7 @@
 {
   "schema": 1,
-  "updated": "2026-10-25",
+  "updated": "2026-10-29",
   "packs": [
-    {
-      "id": "opencut",
-      "name": "视频剪辑素材",
-      "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.0",
-      "size": 113090709,
-      "sha256": "199f14e9d2397c856a142e628ce85950cddb10320a50efa47cc96a16e4767030",
-      "fileCount": 28606,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1/opencut.zip",
-      "installDir": "opencut",
-      "required": false
-    },
     {
       "id": "rhinelab",
       "name": "莱茵生命终端素材",
@@ -39,6 +27,20 @@
       "installDir": "minigame",
       "required": false,
       "updated": "2026-10-25"
+    },
+    {
+      "id": "opencut",
+      "name": "视频剪辑素材",
+      "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
+      "version": "1.1",
+      "size": 113094068,
+      "sha256": "4499cf0028402ff5227357e5e50bd7e2c30720ff0d88a331f323937fc2480d7d",
+      "fileCount": 28606,
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.1/opencut-1.1.zip",
+      "installDir": "opencut",
+      "required": false,
+      "updated": "2026-10-29",
+      "notes": "关键帧值曲线编辑器（AE 风格）：拖点/手柄、auto/aligned/broken/flat 切线、多选；缓动预设扩到 14 个"
     }
   ]
 }
