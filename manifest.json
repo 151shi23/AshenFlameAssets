@@ -32,15 +32,15 @@
       "id": "opencut",
       "name": "视频剪辑素材",
       "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.4",
-      "size": 113114955,
-      "sha256": "697cb4afc9a85fcadf062b485b70d2461fc5252c05f75e75640a7f533721e036",
+      "version": "1.5",
+      "size": 113123402,
+      "sha256": "62ccc10d452299a9e2fc7243ca2083e6fc2697cf24fcf3a1e69cd9a114a0bd33",
       "fileCount": 28606,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.4/opencut-1.4.zip",
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.5/opencut-1.5.zip",
       "installDir": "opencut",
       "required": false,
       "updated": "2026-10-30",
-      "notes": "AE 图层体系：图层列表（隐藏/锁定/上下排序）、父级与空对象、真正的调整层（作用于下方所有图层）、混合模式整理；新增「调整」素材页"
+      "notes": "AE 空间关键帧：位置关键帧连成可选曲线运动路径，画布上直接拖点和切线手柄，支持沿路径自动定向；X/Y 关键帧自动配对，值曲线编辑器同步"
     }
   ]
 }
