@@ -32,15 +32,15 @@
       "id": "opencut",
       "name": "视频剪辑素材",
       "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.7",
-      "size": 113142233,
-      "sha256": "61717137c29f22b9e63779d8b267583018868ddb0bf358e942c6d68311d6da9a",
+      "version": "1.8",
+      "size": 113149578,
+      "sha256": "2b268b634e1e70b9a76573f975126deb35297a0c7caf8078c2433ff004140ec6",
       "fileCount": 28609,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.7/opencut-1.7.zip",
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.8/opencut-1.8.zip",
       "installDir": "opencut",
       "required": false,
       "updated": "2026-10-30",
-      "notes": "文本动画器（AE 逐字动画）"
+      "notes": "形状图层 + 修剪路径（AE Trim Paths）"
     }
   ]
 }
