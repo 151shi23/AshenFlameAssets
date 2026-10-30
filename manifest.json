@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "packs": [
     {
       "id": "rhinelab",
@@ -32,15 +32,15 @@
       "id": "opencut",
       "name": "视频剪辑素材",
       "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.3",
-      "size": 113103033,
-      "sha256": "1dc968210828a9a709842b7fb215c4dcf5a84d8ddc0c25d9ee3086f338811110",
+      "version": "1.4",
+      "size": 113114955,
+      "sha256": "697cb4afc9a85fcadf062b485b70d2461fc5252c05f75e75640a7f533721e036",
       "fileCount": 28606,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.3/opencut-1.3.zip",
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.4/opencut-1.4.zip",
       "installDir": "opencut",
       "required": false,
-      "updated": "2026-10-29",
-      "notes": "手机全屏曲线编辑器、值图/速度图、切线/框选/吸附/缩放平移、删除撤销；拖拽预览按帧合并，手机更跟手"
+      "updated": "2026-10-30",
+      "notes": "AE 图层体系：图层列表（隐藏/锁定/上下排序）、父级与空对象、真正的调整层（作用于下方所有图层）、混合模式整理；新增「调整」素材页"
     }
   ]
 }
