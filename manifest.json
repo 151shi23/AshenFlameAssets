@@ -32,15 +32,15 @@
       "id": "opencut",
       "name": "视频剪辑素材",
       "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.6",
-      "size": 113137429,
-      "sha256": "ab0cff709a523e3b81951e7b104eff3212b6e121ec73b6ef4354c7c857c9ce78",
+      "version": "1.7",
+      "size": 113142233,
+      "sha256": "61717137c29f22b9e63779d8b267583018868ddb0bf358e942c6d68311d6da9a",
       "fileCount": 28609,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.6/opencut-1.6.zip",
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.7/opencut-1.7.zip",
       "installDir": "opencut",
       "required": false,
       "updated": "2026-10-30",
-      "notes": "图层体系二期：拖动排序/Solo/颜色标签/重命名/画布抓父级/锁定后预览不可拖；预览升级为播放器（传输控制/逐帧/倍速/循环/静音/解码模式）；浏览器解不了的视频可用 FFmpeg 转 H.264 代理后播放；面板开关钉在工程区工具条左侧"
+      "notes": "文本动画器（AE 逐字动画）"
     }
   ]
 }
