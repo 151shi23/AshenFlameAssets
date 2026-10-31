@@ -46,15 +46,15 @@
       "id": "opencut",
       "name": "视频剪辑素材",
       "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.14",
-      "size": 113306519,
-      "sha256": "1a1d75fb93ab1e6e1c7f4f19a3ca803a5d8cb21d624e5f329c48d9dfac5b38a4",
+      "version": "1.15",
+      "size": 113306558,
+      "sha256": "a16ce9669f2c1037ad7bae04205c25eb0cd12f05bbaac33c8be61189632ffa2c",
       "fileCount": 28609,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.14/opencut-1.14.zip",
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.15/opencut-1.15.zip",
       "installDir": "opencut",
       "required": false,
       "updated": "2026-10-31",
-      "notes": "对标 AE：图层样式 Layer Styles（投影 / 内阴影 / 外发光 / 内发光 / 描边 / 颜色与渐变叠加 / 简化斜面 + 三组一键预设，全类型图层可用、与蒙版轨道遮罩叠加生效）+ 帧混合升级可选光流 Optical Flow（运动补偿插帧，低置信度自动退回交叉淡化）+ 时间重映射/倒放解码提速（帧窗口缓存，一次顺序解码摊给多帧）"
+      "notes": "图层样式面板重做：每种样式一张可折叠卡（头部即开关、开启自动展开），预设改胶囊 chips，去掉冗余的样式开关行；参数行保留关键帧秒表/曲线深链"
     }
   ]
 }
