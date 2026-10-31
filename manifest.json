@@ -32,15 +32,15 @@
       "id": "opencut",
       "name": "视频剪辑素材",
       "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.10",
-      "size": 113151802,
-      "sha256": "97859d3a0aaef411f99f1e005aa98fadfcdf3a8e226e4d5bbabf96fd973d231a",
+      "version": "1.11",
+      "size": 113152416,
+      "sha256": "a9598a234b692080af00583f4aec3ff4e4c519bb8f30caedfd63f379d4380d5c",
       "fileCount": 28609,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.10/opencut-1.10.zip",
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.11/opencut-1.11.zip",
       "installDir": "opencut",
       "required": false,
       "updated": "2026-10-31",
-      "notes": "AE 精修：属性页每行和时间轴关键帧都能直接打开曲线（双击关键帧 / 行尾曲线图标），打开时自动选中该属性的整条关键帧；曲线面板标题显示图层名，位置曲线提示空间切线在画布上拖；修复全屏曲线面板在开发模式下刚打开就被系统返回关掉的问题。"
+      "notes": "剪辑流畅度：画布拖拽、缩放/旋转手柄、遮罩手柄、运动路径手柄、播放头拖动全部改成每帧只提交一次（触屏 120Hz 不再重复算）；形状层的图形缓存改成跨帧复用，拖形状不再每帧重画 512×512。"
     }
   ]
 }
