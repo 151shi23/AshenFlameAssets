@@ -46,15 +46,15 @@
       "id": "opencut",
       "name": "视频剪辑素材",
       "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.16",
-      "size": 113306759,
-      "sha256": "f6978728855dff3ad839689961e305a8bd2dd96d9608904c97b22f5ce39b1860",
+      "version": "1.17",
+      "size": 113307194,
+      "sha256": "8912cd85290283fe348edc892bc9bfc30e2a85f969b60ab6d8498394412c8b59",
       "fileCount": 28609,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.16/opencut-1.16.zip",
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.17/opencut-1.17.zip",
       "installDir": "opencut",
       "required": false,
       "updated": "2026-10-31",
-      "notes": "图层样式面板重做与交互修复：每样式一张可折叠卡（头部即开关、点亮自动展开）、预设胶囊化；修预设应用后参数行不显示（依赖检查现在读全量参数值）；此档覆盖早前同号的带 bug 构建，拉到后重启一次剪辑页即生效"
+      "notes": "曲线/泳道适配：时间重映射与图层样式数值（27 条 ls* 路径）加进时间轴展开泳道白名单并补泳道标签——此前打了关键帧时间轴也不显示；曲线编辑器本身按路径通用，无需改动"
     }
   ]
 }
