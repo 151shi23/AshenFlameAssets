@@ -32,15 +32,15 @@
       "id": "opencut",
       "name": "视频剪辑素材",
       "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.9",
-      "size": 113150230,
-      "sha256": "742c1f5ee45b1efc4a6cbef975123473f3a3c98c71f18523878900dcc5c30a16",
+      "version": "1.10",
+      "size": 113151802,
+      "sha256": "97859d3a0aaef411f99f1e005aa98fadfcdf3a8e226e4d5bbabf96fd973d231a",
       "fileCount": 28609,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.9/opencut-1.9.zip",
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.10/opencut-1.10.zip",
       "installDir": "opencut",
       "required": false,
       "updated": "2026-10-31",
-      "notes": "关键帧修复：画布拖拽、缩放手柄、旋转在有帧的图层上会自动落帧（位置 X/Y 成对），不再只改被通道盖住的基础值；手机端预览控制条改为浮在画面上的浮层，默认收起、只留右下角胶囊，全屏时自动收起；拖素材扩容时间轴后会自动还原；播放头不在图层范围内点秒表会给出提示。"
+      "notes": "AE 精修：属性页每行和时间轴关键帧都能直接打开曲线（双击关键帧 / 行尾曲线图标），打开时自动选中该属性的整条关键帧；曲线面板标题显示图层名，位置曲线提示空间切线在画布上拖；修复全屏曲线面板在开发模式下刚打开就被系统返回关掉的问题。"
     }
   ]
 }
