@@ -46,15 +46,15 @@
       "id": "4dgen",
       "name": "4D皮肤生成",
       "desc": "把 PMX/VRM/GLB/OBJ 模型或一张图片转成 Minecraft 基岩版 4D 皮肤包",
-      "version": "1.0",
-      "size": 3535688,
-      "sha256": "2e49c580365e350c879848c2dfc4b95645eb116d1aa88236f0ba0e7c5a682ee8",
-      "fileCount": 9,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.0/4dgen-1.0.zip",
+      "version": "1.1",
+      "size": 3549090,
+      "sha256": "b6d0db9d177a36cd0b57b636f8680d23b42b6179c0aa3ae5d9ccb2dd840be075",
+      "fileCount": 11,
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.1/4dgen-1.1.zip",
       "installDir": "4dgen",
       "required": false,
       "updated": "2026-10-31",
-      "notes": "首次使用需下载一次（约 13 MB）：模型解析与皮肤包生成全部在本地完成，不上传文件。"
+      "notes": "首次使用需下载一次（压缩包约 3.4 MB，解压后约 13 MB）：模型解析与皮肤包生成全部在本机完成，不上传文件。1.1 起附带 GPL-3.0 许可与上游源码指针。"
     }
   ]
 }
