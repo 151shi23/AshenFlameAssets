@@ -32,15 +32,15 @@
       "id": "opencut",
       "name": "视频剪辑素材",
       "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.11",
-      "size": 113152416,
-      "sha256": "a9598a234b692080af00583f4aec3ff4e4c519bb8f30caedfd63f379d4380d5c",
+      "version": "1.12",
+      "size": 113283164,
+      "sha256": "f534420766363bdee9833a836969feb2705fba2bcf97451fb1d96062b65068bb",
       "fileCount": 28609,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.11/opencut-1.11.zip",
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.12/opencut-1.12.zip",
       "installDir": "opencut",
       "required": false,
       "updated": "2026-10-31",
-      "notes": "剪辑流畅度：画布拖拽、缩放/旋转手柄、遮罩手柄、运动路径手柄、播放头拖动全部改成每帧只提交一次（触屏 120Hz 不再重复算）；形状层的图形缓存改成跨帧复用，拖形状不再每帧重画 512×512。"
+      "notes": "复刻 AE 运动模糊：工程设置里开启后可调快门角度（90/180/270/360°）与采样数（4/8/16），图层在「混合」页单独打开自己的运动模糊；画面/视频/贴纸/形状层按快门角在合成器里做多子帧加权平均（真实拖影，不是后期模糊）。"
     }
   ]
 }
