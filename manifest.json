@@ -29,20 +29,6 @@
       "updated": "2026-10-25"
     },
     {
-      "id": "opencut",
-      "name": "视频剪辑素材",
-      "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.12",
-      "size": 113283164,
-      "sha256": "f534420766363bdee9833a836969feb2705fba2bcf97451fb1d96062b65068bb",
-      "fileCount": 28609,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.12/opencut-1.12.zip",
-      "installDir": "opencut",
-      "required": false,
-      "updated": "2026-10-31",
-      "notes": "复刻 AE 运动模糊：工程设置里开启后可调快门角度（90/180/270/360°）与采样数（4/8/16），图层在「混合」页单独打开自己的运动模糊；画面/视频/贴纸/形状层按快门角在合成器里做多子帧加权平均（真实拖影，不是后期模糊）。"
-    },
-    {
       "id": "4dgen",
       "name": "4D皮肤生成",
       "desc": "把 PMX/VRM/GLB/OBJ 模型或一张图片转成 Minecraft 基岩版 4D 皮肤包",
@@ -55,6 +41,20 @@
       "required": false,
       "updated": "2026-10-31",
       "notes": "首次使用需下载一次（压缩包约 3.4 MB，解压后约 13 MB）：模型解析与皮肤包生成全部在本机完成，不上传文件。1.1 起附带 GPL-3.0 许可与上游源码指针。"
+    },
+    {
+      "id": "opencut",
+      "name": "视频剪辑素材",
+      "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
+      "version": "1.13",
+      "size": 113292441,
+      "sha256": "7d97d58f426f0532c513bf86cf5d1056c941c58e6bc2cc0a100b2a62bb0d600c",
+      "fileCount": 28609,
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.13/opencut-1.13.zip",
+      "installDir": "opencut",
+      "required": false,
+      "updated": "2026-10-31",
+      "notes": "对标 AE：轨道遮罩 Track Matte（Alpha / Alpha 反转 / 亮度 / 亮度反转，遮罩源用上一层的成像且自己不显示）+ 时间重映射 Time Remap（可打关键帧、拖曲线就是变速/倒放/冻结）+ 帧混合 Frame Blending（变速时混相邻两帧去卡顿）"
     }
   ]
 }
