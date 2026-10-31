@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "packs": [
     {
       "id": "rhinelab",
@@ -32,15 +32,15 @@
       "id": "opencut",
       "name": "视频剪辑素材",
       "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.8",
-      "size": 113149578,
-      "sha256": "2b268b634e1e70b9a76573f975126deb35297a0c7caf8078c2433ff004140ec6",
+      "version": "1.9",
+      "size": 113150201,
+      "sha256": "f43977158313c41b888b8933c202f7a913584fd120e181e3ba28350496500cb9",
       "fileCount": 28609,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.8/opencut-1.8.zip",
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.9/opencut-1.9.zip",
       "installDir": "opencut",
       "required": false,
-      "updated": "2026-10-30",
-      "notes": "形状图层 + 修剪路径（AE Trim Paths）"
+      "updated": "2026-10-31",
+      "notes": "关键帧修复：画布拖拽、缩放手柄、旋转在有帧的图层上会自动落帧（位置 X/Y 成对），不再只改被通道盖住的基础值；手机端预览控制条改为浮在画面上的浮层，默认收起、只留右下角胶囊，全屏时自动收起；拖素材扩容时间轴后会自动还原；播放头不在图层范围内点秒表会给出提示。"
     }
   ]
 }
