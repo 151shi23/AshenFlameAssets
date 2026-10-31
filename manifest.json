@@ -46,15 +46,15 @@
       "id": "opencut",
       "name": "视频剪辑素材",
       "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.17",
-      "size": 113307194,
-      "sha256": "8912cd85290283fe348edc892bc9bfc30e2a85f969b60ab6d8498394412c8b59",
+      "version": "1.18",
+      "size": 113307187,
+      "sha256": "4c3cadb5d625fe275c8392a03ea3a4295bd19691fd1ab4f7d404ec874dfe403e",
       "fileCount": 28609,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.17/opencut-1.17.zip",
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.18/opencut-1.18.zip",
       "installDir": "opencut",
       "required": false,
       "updated": "2026-10-31",
-      "notes": "曲线/泳道适配：时间重映射与图层样式数值（27 条 ls* 路径）加进时间轴展开泳道白名单并补泳道标签——此前打了关键帧时间轴也不显示；曲线编辑器本身按路径通用，无需改动"
+      "notes": "修复：第一次给图层打关键帧时时间轴泳道自动展开（原来泳道开关藏在片段右键菜单里，打了帧时间轴没动静）；已手动收起过的不再强行弹开"
     }
   ]
 }
