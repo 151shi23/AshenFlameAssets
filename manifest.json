@@ -46,15 +46,15 @@
       "id": "opencut",
       "name": "视频剪辑素材",
       "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
-      "version": "1.13",
-      "size": 113292441,
-      "sha256": "7d97d58f426f0532c513bf86cf5d1056c941c58e6bc2cc0a100b2a62bb0d600c",
+      "version": "1.14",
+      "size": 113306519,
+      "sha256": "1a1d75fb93ab1e6e1c7f4f19a3ca803a5d8cb21d624e5f329c48d9dfac5b38a4",
       "fileCount": 28609,
-      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.13/opencut-1.13.zip",
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.14/opencut-1.14.zip",
       "installDir": "opencut",
       "required": false,
       "updated": "2026-10-31",
-      "notes": "对标 AE：轨道遮罩 Track Matte（Alpha / Alpha 反转 / 亮度 / 亮度反转，遮罩源用上一层的成像且自己不显示）+ 时间重映射 Time Remap（可打关键帧、拖曲线就是变速/倒放/冻结）+ 帧混合 Frame Blending（变速时混相邻两帧去卡顿）"
+      "notes": "对标 AE：图层样式 Layer Styles（投影 / 内阴影 / 外发光 / 内发光 / 描边 / 颜色与渐变叠加 / 简化斜面 + 三组一键预设，全类型图层可用、与蒙版轨道遮罩叠加生效）+ 帧混合升级可选光流 Optical Flow（运动补偿插帧，低置信度自动退回交叉淡化）+ 时间重映射/倒放解码提速（帧窗口缓存，一次顺序解码摊给多帧）"
     }
   ]
 }
