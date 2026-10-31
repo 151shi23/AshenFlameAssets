@@ -47,14 +47,14 @@
       "name": "视频剪辑素材",
       "desc": "OpenCut 剪辑器的贴纸、3D 模型与语音转写模型",
       "version": "1.16",
-      "size": 113306845,
-      "sha256": "9645c8c4e61ca2582bbb1f9bc1bd8d3f2146eeacdc2f99438aae06bfe6a88a8d",
+      "size": 113306759,
+      "sha256": "f6978728855dff3ad839689961e305a8bd2dd96d9608904c97b22f5ce39b1860",
       "fileCount": 28609,
       "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.16/opencut-1.16.zip",
       "installDir": "opencut",
       "required": false,
       "updated": "2026-10-31",
-      "notes": "图层样式交互修复：一键预设/开关点亮样式时对应卡片自动展开（原来只亮开关、面板没动静）"
+      "notes": "图层样式面板重做与交互修复：每样式一张可折叠卡（头部即开关、点亮自动展开）、预设胶囊化；修预设应用后参数行不显示（依赖检查现在读全量参数值）；此档覆盖早前同号的带 bug 构建，拉到后重启一次剪辑页即生效"
     }
   ]
 }
