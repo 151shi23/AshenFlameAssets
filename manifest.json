@@ -41,6 +41,20 @@
       "required": false,
       "updated": "2026-10-31",
       "notes": "复刻 AE 运动模糊：工程设置里开启后可调快门角度（90/180/270/360°）与采样数（4/8/16），图层在「混合」页单独打开自己的运动模糊；画面/视频/贴纸/形状层按快门角在合成器里做多子帧加权平均（真实拖影，不是后期模糊）。"
+    },
+    {
+      "id": "4dgen",
+      "name": "4D皮肤生成",
+      "desc": "把 PMX/VRM/GLB/OBJ 模型或一张图片转成 Minecraft 基岩版 4D 皮肤包",
+      "version": "1.0",
+      "size": 3535688,
+      "sha256": "2e49c580365e350c879848c2dfc4b95645eb116d1aa88236f0ba0e7c5a682ee8",
+      "fileCount": 9,
+      "url": "https://github.com/151shi23/AshenFlameAssets/releases/download/v1.0/4dgen-1.0.zip",
+      "installDir": "4dgen",
+      "required": false,
+      "updated": "2026-10-31",
+      "notes": "首次使用需下载一次（约 13 MB）：模型解析与皮肤包生成全部在本地完成，不上传文件。"
     }
   ]
 }
